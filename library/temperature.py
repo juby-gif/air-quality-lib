@@ -8,8 +8,8 @@ def c_to_k(c):
     return k
 
 def f_to_c(f):
-    fa = (f-32) * 5/9 #Formula to convert Fareheit to Celsius
-    return fa
+    f = (f-32) * 5/9 #Formula to convert Fareheit to Celsius
+    return f
 
 def f_to_k(f):
     k = (f-32) * 5/9 + 273.15 #Formula to convert Fareheit to Kelvin
