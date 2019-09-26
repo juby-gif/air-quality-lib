@@ -1,3 +1,5 @@
+#This program is to input user data, list them and compute them to check their air quality and other functions
+#taking advantage of python standard library and statistics library
 import os
 import library.statistics
 import library.humidity
